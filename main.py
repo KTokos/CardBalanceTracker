@@ -55,7 +55,7 @@ if response == "yes":
     remainingBalance = float(startingBalance) - totalCost
 
     # Update the remaining balance in the list
-    lines[1] = f"Remaining Balance: {remainingBalance}"
+    lines[1] = f"Remaining Balance: {remainingBalance}\n\n"
 
     # Clear the file
     with open('CardBalance.txt', 'w') as file:
