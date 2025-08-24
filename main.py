@@ -6,7 +6,6 @@
 # Computer Science Major
 #
 #######################################
-from math import remainder
 
 # Create an empty purchases list
 purchases = []
