@@ -1,7 +1,10 @@
 Starting Amount: 175.00
-Remaining Balance: 88.82
+Remaining Balance: 140.86
+
+
 
 -----------------------------------------------------
 
 Purchases:
 Walmart - 7.18
+Aldi's - 26.96

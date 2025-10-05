@@ -4,15 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e3e014a-c1f1-48eb-8cdd-30b02cc16756" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/CardBalanceTracker.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CardBalance.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    <list default="true" id="4e3e014a-c1f1-48eb-8cdd-30b02cc16756" name="Changes" comment="My dad gave me a gift card to use for groceries, so I made a script to keep track of the balance on it since I'm too lazy to do it manually.">
+      <change beforePath="$PROJECT_DIR$/.idea/CardBalanceTracker.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CardBalanceTracker.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CardBalance.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CardBalance.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,9 +25,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;KTokos&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/KTokos/CardBalanceTracker.git&quot;,
+    &quot;accountId&quot;: &quot;a8f690de-2546-4aed-b568-db7bb61ac6c0&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="31iJEJHGdx3lAmposH6WDPLzQ6Z" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -43,13 +51,15 @@
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/krist/Projects/Python/PycharmProjects/CardBalanceTracker",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-d9fa9deec7cb-d902c0275401-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-252.23892.515" />
+        <option value="bundled-python-sdk-b030e9c4a83c-d902c0275401-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-252.26199.168" />
       </set>
     </attachedChunks>
   </component>
@@ -61,6 +71,43 @@
       <option name="presentableId" value="Default" />
       <updated>1756000846291</updated>
     </task>
+    <task id="LOCAL-00001" summary="My dad gave me a gift card to use for groceries, so I made a script to keep track of the balance on it since I'm too lazy to do it manually.">
+      <option name="closed" value="true" />
+      <created>1756004309691</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1756004309691</updated>
+    </task>
+    <task id="LOCAL-00002" summary="My dad gave me a gift card to use for groceries, so I made a script to keep track of the balance on it since I'm too lazy to do it manually.">
+      <option name="closed" value="true" />
+      <created>1756004321616</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1756004321616</updated>
+    </task>
+    <task id="LOCAL-00003" summary="My dad gave me a gift card to use for groceries, so I made a script to keep track of the balance on it since I'm too lazy to do it manually.">
+      <option name="closed" value="true" />
+      <created>1756004368999</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1756004368999</updated>
+    </task>
+    <task id="LOCAL-00004" summary="My dad gave me a gift card to use for groceries, so I made a script to keep track of the balance on it since I'm too lazy to do it manually.">
+      <option name="closed" value="true" />
+      <created>1756004506248</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1756004506248</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="My dad gave me a gift card to use for groceries, so I made a script to keep track of the balance on it since I'm too lazy to do it manually." />
+    <option name="LAST_COMMIT_MESSAGE" value="My dad gave me a gift card to use for groceries, so I made a script to keep track of the balance on it since I'm too lazy to do it manually." />
   </component>
 </project>
